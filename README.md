@@ -1,18 +1,20 @@
 **Alumni Tracking System**
 
-Received 7th rank at the college level for my project Alumni Tracking system during Smart India Hackathon 2020.
+Alumni Tracking System is an online-based application that helps to tracking of college graduates. 
+The project aims to improve current tracking procedure of college graduate and providing alumni data to college faculties. 
+It aims to developing a web portal which will be useful for the college to monitor the alumni and for the alumni to update
+their current status about the college activities. The proposal of this system is to provide an optimized solution for collecting
+and managing the alumni data. The system will be an all-inone place to handle alumni data, to enable communication
+between alumni and the institution and provides great flexible features to keep track of the data.
 
-This was a requirement from the Goa State, India to enable colleges and Directorates to access all the information with regard to the old students.
+This is a requirement of Smart India Hackathon 2020, ranked 7th position for my project Alumni Tracking System at the college level.
 
-Home Page of Alumni Tracking System Application
-![Home](https://github.com/snavyaakshitha/alumni-tracking-system-SIH2020/assets/132785643/b3b35b8a-aac1-4f94-9bdf-5c725ebc5526)
+Home Page:
 
-Alumni Login Page
-![Alumni-Login](https://github.com/snavyaakshitha/alumni-tracking-system-SIH2020/assets/132785643/681fe83b-2620-4387-b6b7-d368280d90df)
 
-Alumni Registration Page
-![Alumni-Reg](https://github.com/snavyaakshitha/alumni-tracking-system-SIH2020/assets/132785643/855e7f6a-ac03-4ed5-8369-057b8ea0bccc)
+Login Page:
 
-![Copy of ALUMNI (1)](https://github.com/snavyaakshitha/alumni-tracking-system-SIH2020/assets/132785643/3cc91a5f-6ab3-416b-9748-6096d3db98b3)
+
+Registration Page:
 
 
