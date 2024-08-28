@@ -11,15 +11,10 @@ and managing the alumni data. The system will be an all-inone place to handle al
 between alumni and the institution and provides great flexible features to keep track of the data.
 
 Home Page:
-
-<img width="819" alt="login" src="https://github.com/user-attachments/assets/a01d7255-f0f0-46be-98ac-64d6c05a2003">
-
+<img width="614" alt="home" src="https://github.com/user-attachments/assets/1d3fc201-9878-469b-8887-3458cc1722e7">
 
 Login Page:
-
-<img width="803" alt="registration" src="https://github.com/user-attachments/assets/a86ff0ed-64de-4946-b9f6-090a2a50c10e">
-
+<img width="819" alt="login" src="https://github.com/user-attachments/assets/217ca74c-f07a-484d-b131-d7221565b891">
 
 Registration Page:
-
-<img width="803" alt="registration" src="https://github.com/user-attachments/assets/1ca3e032-24c9-4039-88ce-37c88e23f5b4">
+<img width="803" alt="registration" src="https://github.com/user-attachments/assets/0b5bc6ae-3e93-4168-be9a-e0e538943fe9">
