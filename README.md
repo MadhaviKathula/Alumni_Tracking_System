@@ -1,7 +1,7 @@
 **Alumni Tracking System**
 
 
-This is a requirement of Smart India Hackathon 2020, ranked 7th position for my project Alumni Tracking System at the college level.
+This Project is a requirement of Smart India Hackathon 2020, ranked 7th position for my project Alumni Tracking System at the college level.
 
 Alumni Tracking System is an online-based application that helps to tracking of college graduates. 
 The project aims to improve current tracking procedure of college graduate and providing alumni data to college faculties. 
@@ -14,9 +14,11 @@ Home Page:
 
 <img width="819" alt="login" src="https://github.com/user-attachments/assets/a01d7255-f0f0-46be-98ac-64d6c05a2003">
 
+
 Login Page:
 
 <img width="803" alt="registration" src="https://github.com/user-attachments/assets/a86ff0ed-64de-4946-b9f6-090a2a50c10e">
+
 
 Registration Page:
 
